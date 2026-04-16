@@ -1,6 +1,5 @@
 #GAMES101 计算机图形学作业仓库<br>
 针对“Windows 11 + WSL2 Ubuntu”环境配置的GAmes101作业框架<br>
-GAMES101 计算机图形学作业仓库<br>
 ## 配置环境<br>
 - WSL2 + Ubuntu<br>
 - CMake + GCC + Eigen3<br>

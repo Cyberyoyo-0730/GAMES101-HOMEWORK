@@ -8,7 +8,7 @@
 
 ## 作业进度<br>
 - Assignment0：环境配置 & Eigen 基础  [已完成]<br>
-- Assignment1：三角形光栅化 & 深度测试<br>
+- Assignment1：三角形光栅化 & 深度测试[已完成]<br>
 - Assignment2：纹理映射 & 重心坐标插值<br>
 - Assignment3：光线追踪 & 光线与物体求交<br>
 - Assignment4：贝塞尔曲线 & 曲面细分<br>
